@@ -1,0 +1,11 @@
+.foooo {
+	margin-top: 40px;
+}
+
+.twoo {
+	margin-bottom: 100px;
+}
+
+.he.testimonial-body::before {
+	background-image: none !important;
+}
